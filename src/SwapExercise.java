@@ -7,6 +7,7 @@ public class SwapExercise {
         a = b;
         b = temp;
 
+        //main 연습
         System.out.printf("a: %d b: %d", a, b);
     }
 }
